@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArcanaSelenia
+- 👋 Hi, I’m @PragyaVijay
 - 👀 I’m interested in literature 
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on python and HTML 
